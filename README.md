@@ -21,3 +21,4 @@ Also provides a version of Google Translation, although I feel that google reall
 
 ![image](https://user-images.githubusercontent.com/31568487/177575024-aee8b788-2518-4f70-be72-1852decaea6b.png)
 
+解压后,文件夹放在: /Users/NAMES/Library/Services 下即可
