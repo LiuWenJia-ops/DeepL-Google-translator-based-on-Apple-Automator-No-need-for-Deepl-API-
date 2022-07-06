@@ -14,6 +14,10 @@ Also provides a version of Google Translation, although I feel that google reall
 
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/31568487/177574509-4a96244c-9648-4301-9ec7-e8cd0fd1d47f.png">
 
+<img width="1012" alt="image" src="https://user-images.githubusercontent.com/31568487/177575422-67a4b013-d48a-4e79-a5ca-865fd47af197.png">
+
+
 可以为服务设置快捷键, 实现一键调用~
 
 ![image](https://user-images.githubusercontent.com/31568487/177575024-aee8b788-2518-4f70-be72-1852decaea6b.png)
+
